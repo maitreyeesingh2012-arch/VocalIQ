@@ -1,0 +1,10 @@
+flask
+flask-login
+waitress
+librosa
+soundfile
+numpy
+scipy
+matplotlib
+rich
+sounddevice
